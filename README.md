@@ -1,1 +1,0 @@
-# Actividad-2.1-Regresi-n-Lineal-
